@@ -1,8 +1,8 @@
 # 💧 Water Reminder App
 
 **Repository Name:** WaterReminder-YourRollNumber  
-**Author:** Your Name  
-**Student ID:** YourRollNumber
+**Author:** M Saim Azam  
+**Student ID:** 65383
 
 ---
 
@@ -28,5 +28,5 @@ Version 2.0 adds a new feature: recommending the **ideal water temperature** bas
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/WaterReminder-YourRollNumber.git
-   cd WaterReminder-YourRollNumber
+   git clone https://github.com/sammihere2001/WaterReminder-65383.git
+   cd WaterReminder-65383
